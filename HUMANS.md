@@ -1,23 +1,20 @@
 # THE HUMANS COLOPHON
 
+This is the original HUMANS file kept from jdiaz5513's upstream project. New
+contributors are not added to this file.
+
 ## TEAM
 
 - The Cap'n: [kentonv](https://github.com/kentonv)
-
 - Code ninja: [jdiaz5513](https://github.com/jdiaz5513)
-
 - Code ninja: [ishitatsuyuki](https://github.com/ishitatsuyuki)
-
 - Code ninja: [efokschaner](https://github.com/efokschaner)
 
 ## SPECIAL THANKS
 
 - Microsoft's dev team (VSCode, TypeScript)
-
 - [ashwinr](https://github.com/ashwinr) (tslint)
-
 - [thebigredgeek](https://github.com/thebigredgeek) (debug)
-
 - [isaacs](https://github.com/isaacs) (npm, node-tap)
 
 ## PLEDGE

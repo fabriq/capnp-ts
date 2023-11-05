@@ -1,0 +1,5 @@
+#!/usr/bin/env deno run -A
+
+import { main } from "./capnpc/mod.ts";
+
+main();
