@@ -1,0 +1,20 @@
+{
+  "fmt": {
+    "exclude": [
+      "**/*.capnp.ts"
+    ]
+  },
+  "lint": {
+    "exclude": [
+      "**/*.capnp.ts"
+    ]
+  },
+  "tasks": {
+    "clean": "make clean",
+    "format": "deno fmt",
+    "format-check": "deno fmt --check",
+    "lint": "deno lint",
+    "test": "make build && deno test --allow-read=./testdata --allow-env=DEBUG",
+    "type-check": "make build && deno check **/*.ts"
+  }
+}
